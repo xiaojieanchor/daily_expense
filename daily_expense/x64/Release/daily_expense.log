@@ -1,0 +1,4 @@
+﻿  fun.cpp
+  main.cpp
+C:\Users\19410\Desktop\daily_expense\main.cpp(97,45): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+LINK : fatal error LNK1181: 无法打开输入文件“libxl.libkernel32.lib”

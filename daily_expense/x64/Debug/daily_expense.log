@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\19410\Desktop\daily_expense\main.cpp(97,45): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  LINK : 没有找到 C:\Users\19410\Desktop\daily_expense\x64\Debug\daily_expense.exe 或上一个增量链接没有生成它；正在执行完全链接
+  daily_expense.vcxproj -> C:\Users\19410\Desktop\daily_expense\x64\Debug\daily_expense.exe
